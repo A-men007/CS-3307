@@ -1,0 +1,2 @@
+a1 type  75
+a2 type  25
