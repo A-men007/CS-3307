@@ -1,0 +1,3 @@
+[submodule "Coviddatadisplayer"]
+	path = Coviddatadisplayer
+	url = https://github.com/A-men007/Covid_data_displayer
